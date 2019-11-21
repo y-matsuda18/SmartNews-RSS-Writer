@@ -1,5 +1,9 @@
 # SmartNews RSS Writer
 
+![GitHub top language](https://img.shields.io/github/languages/top/y-matsuda18/SmartNews-RSS-Writer)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/y-matsuda18/SmartNews-RSS-Writer)
+![GitHub](https://img.shields.io/github/license/y-matsuda18/SmartNews-RSS-Writer)
+
 [SmartFormat仕様書（RSS2.0準拠）](https://publishers.smartnews.com/hc/ja/articles/360010977813)に基づいてXMLを出力する。  
 Outputs XML based on the [SmartFormat Specification](https://publishers.smartnews.com/hc/en-us/articles/360036526213-SmartFormat-Specification-Version-2-1-).
 
